@@ -73,9 +73,10 @@
 }
 
 .yue a {
-  color: #111;
+  color: #666;
   word-wrap: break-word;
   text-decoration-color: rgba(0, 0, 0, 0.4);
+  text-decoration: underline;
 }
 
 .yue a:hover {
